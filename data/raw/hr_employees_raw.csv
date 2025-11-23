@@ -1,0 +1,206 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Manager_ID,Location,Country,Employment_Type,Hire_Date,Termination_Date,Status,Base_Salary
+93810,Rodney,Murphy,Operations,Analyst,50888,New York,USA,Contract,2019-12-24,2022-05-01,Active,59288
+24592,Jason,Lin,IT,Associate,,New York,USA,Contract,2022-10-15,,Terminated,134186
+13278,Amber,Rasmussen,Marketing,Director,,Wilmington,USA,PT,2020-08-04,,Terminated,51540
+46048,Jessica,Ramirez,IT Dept,Analyst,59192,New York,USA,PT,2016-03-21,2023-08-17,Active,142768
+42098,James,May,Operations,Analyst,61990,Chicago,USA,FT,2018-10-10,2021-04-05,Active,126958
+39256,Larry,Ross,H.R.,Manager,35995,Plano,USA,PT,2018-09-20,,Terminated,113878
+28289,Wanda,Zavala,Operations,Coordinator,19961,Wilmington,USA,PT,2024-06-28,,Active,86846
+23434,Debra,Herrera,Marketing,Manager,87607,New York,USA,Contract,2016-08-09,,Active,146148
+98696,Samuel,Crosby,IT Dept,Associate,92213,Chicago,USA,PT,2018-03-24,,Terminated,120932
+81482,Zachary,Wilson,IT,Director,41830,Chicago,USA,FT,2018-07-16,,Active,62482
+21395,David,Waller,Marketing,Manager,23356,New York,USA,PT,2023-10-22,,Active,68411
+87397,Jeffrey,White,Marketing,Analyst,49529,Plano,USA,Contract,2021-10-16,,Active,95975
+65302,Matthew,Estes,H.R.,Director,99687,New York,USA,Contract,2023-12-07,,Terminated,105545
+14165,Brianna,Baker,Finance,Director,88697,Wilmington,USA,PT,2017-11-14,,Terminated,123797
+13905,Jerry,Rodriguez,IT Dept,Analyst,25866,New York,USA,Contract,2017-01-15,,Terminated,97307
+22280,Jeffrey,Hamilton,Human Resources,Manager,84177,Chicago,USA,FT,2018-02-21,2025-08-14,Active,48093
+38657,Chad,Chandler,Marketing,Analyst,,New York,USA,FT,2017-05-20,,Terminated,122258
+40495,Crystal,Edwards,Finance,Coordinator,,Plano,USA,PT,2018-07-20,,Active,67042
+76237,Jeremy,Obrien,Human Resources,Director,,Columbus,USA,PT,2017-04-25,,Active,97930
+88907,Rebecca,Dixon,IT Dept,Engineer,,New York,USA,PT,2016-06-27,,Active,89413
+13478,Michele,Cruz,HR,Engineer,96706,Plano,USA,Contract,2023-10-27,,Active,138623
+83563,Chad,Ray,Finance,Associate,58571,Plano,USA,FT,2021-11-04,,Active,142883
+36062,John,Scott,Sales,Analyst,19038,Chicago,USA,FT,2024-02-19,,Active,78756
+95181,Elizabeth,Fletcher,HR,Analyst,,Plano,USA,Contract,2025-02-08,,Active,98268
+81426,Jason,Smith,H.R.,Associate,94874,Plano,USA,FT,2020-04-14,,Active,84214
+64987,David,Frost,Operations,Associate,54725,Plano,USA,PT,2020-07-31,,Active,126871
+38893,Selena,Ryan,IT,Associate,,Plano,USA,PT,2018-12-07,2025-10-31,Active,73602
+68878,Ashley,Ball,Sales,Director,65057,Wilmington,USA,PT,2019-12-02,,Active,98331
+87236,Thomas,Harmon,H.R.,Coordinator,74251,Wilmington,USA,FT,2018-08-13,,Active,93901
+46463,Kristen,Lambert,IT Dept,Analyst,23833,Chicago,USA,PT,2021-04-17,,Active,144986
+10851,Lindsey,Diaz,H.R.,Director,66822,New York,USA,Contract,2020-04-09,,Active,108416
+30926,James,Jones,Operations,Associate,,Plano,USA,Contract,2021-11-15,,Active,77196
+65392,Collin,Beck,IT Dept,Analyst,93307,New York,USA,FT,2024-10-15,,Active,50626
+54597,Ryan,Rivera,Sales,Director,70258,New York,USA,Contract,2023-03-29,2022-05-22,Active,52424
+46421,Rodney,Edwards,Hr,Coordinator,30052,Chicago,USA,Contract,2021-12-06,,Terminated,57857
+30379,Stuart,Charles,Human Resources,Director,67080,Plano,USA,FT,2016-02-25,,Active,64982
+38221,Jessica,Cortez,IT,Coordinator,33086,Plano,USA,PT,2018-03-08,,Active,121961
+54118,Emily,Evans,Sales,Associate,,Columbus,USA,PT,2022-08-21,2025-09-14,Active,46980
+23396,Tracey,Parker,Human Resources,Coordinator,,New York,USA,PT,2024-07-01,,Terminated,93290
+22156,Corey,Ortiz,Sales,Analyst,45400,New York,USA,FT,2021-10-06,,Active,71431
+59797,Richard,Powell,IT Dept,Associate,,Wilmington,USA,Contract,2016-02-06,,Terminated,129976
+22676,Matthew,Phillips,Human Resources,Analyst,80539,Columbus,USA,PT,2023-07-17,,Active,127711
+57052,Michelle,Martinez,IT,Engineer,73372,Wilmington,USA,PT,2024-02-09,,Terminated,71385
+55082,John,Fisher,Operations,Manager,70931,Wilmington,USA,FT,2021-08-28,2024-05-06,Active,83158
+89131,James,Bentley,Marketing,Coordinator,67091,Wilmington,USA,PT,2023-07-11,,Terminated,68019
+44671,Shane,Byrd,H.R.,Manager,87656,Chicago,USA,FT,2017-08-23,,Active,63639
+15695,Robert,Orr,HR,Manager,45179,Chicago,USA,Contract,2021-01-30,,Active,130530
+70217,Joshua,Gilbert,IT,Coordinator,52245,Wilmington,USA,FT,2020-04-25,,Active,144911
+80284,John,Turner,Human Resources,Associate,42177,Columbus,USA,FT,2018-09-04,,Active,66563
+26361,Sandra,Kelley,Marketing,Engineer,21359,New York,USA,FT,2025-11-11,,Active,84341
+59615,Scott,Smith,IT,Analyst,46559,Columbus,USA,FT,2020-04-02,,Terminated,50776
+20328,Michelle,Mitchell,Human Resources,Director,69087,Plano,USA,Contract,2024-01-14,,Terminated,81444
+82357,Andrea,Jordan,Finance,Analyst,,Chicago,USA,Contract,2025-08-01,,Active,113916
+48427,Brent,Carpenter,Finance,Director,,New York,USA,PT,2020-08-04,,Active,53711
+92397,Yvette,Pena,IT,Analyst,,New York,USA,Contract,2019-12-23,,Active,119318
+91070,Mary,Marshall,Finance,Coordinator,,Plano,USA,Contract,2019-02-07,,Active,127970
+57400,Tanya,Ramos,Human Resources,Engineer,,Plano,USA,PT,2016-12-09,,Active,130553
+85674,Sara,Lewis,Human Resources,Director,59674,Wilmington,USA,Contract,2017-07-02,,Active,75707
+35203,Melinda,Kennedy,IT,Associate,,Chicago,USA,FT,2020-01-04,2023-03-06,Active,84110
+19116,Gabriel,Santana,Marketing,Analyst,13761,Chicago,USA,FT,2020-11-05,2022-05-27,Active,106788
+16006,Todd,Flynn,Operations,Analyst,74789,Columbus,USA,PT,2022-07-09,,Active,127879
+96673,Jason,Jackson,Sales,Director,,Wilmington,USA,PT,2019-11-24,,Active,83827
+39871,Richard,Miller,Marketing,Associate,33834,Wilmington,USA,PT,2023-07-02,,Active,50655
+47930,Brian,Robertson,IT Dept,Associate,73904,Wilmington,USA,FT,2016-04-05,,Active,89859
+20458,Nicholas,Schultz,Human Resources,Coordinator,,Wilmington,USA,Contract,2016-10-09,,Terminated,98625
+40512,Tricia,Rogers,IT Dept,Coordinator,56507,Chicago,USA,FT,2018-06-02,,Active,97098
+23238,Joseph,Cardenas,Marketing,Coordinator,43862,Chicago,USA,PT,2017-01-19,,Active,60251
+59823,Kristen,Potter,Sales,Coordinator,54608,Wilmington,USA,Contract,2023-08-15,,Active,45526
+46434,Spencer,Chambers,Sales,Coordinator,46655,Columbus,USA,Contract,2024-07-17,,Active,113760
+69429,Rodney,Walker,HR,Coordinator,88139,New York,USA,FT,2024-02-22,,Terminated,92837
+93320,Susan,Gonzalez,Sales,Engineer,46211,New York,USA,PT,2015-11-27,,Active,56536
+57819,Wendy,Johnson,Operations,Associate,,Columbus,USA,FT,2024-08-02,,Active,73541
+31319,Angela,Sanchez,Sales,Coordinator,11330,Wilmington,USA,Contract,2020-07-06,,Active,124083
+58520,Jennifer,Alvarez,Marketing,Associate,77715,Chicago,USA,FT,2016-06-08,,Terminated,96027
+56566,Eric,Atkinson,HR,Associate,35042,New York,USA,FT,2021-01-28,,Terminated,79531
+37460,Kenneth,Jones,Marketing,Manager,21221,Plano,USA,PT,2022-02-13,,Active,53712
+97841,Tanya,Perry,Marketing,Engineer,41635,Plano,USA,PT,2020-11-16,,Active,149101
+44993,Beth,Soto,H.R.,Coordinator,63271,Columbus,USA,Contract,2020-04-24,,Active,110455
+99593,Amy,Lee,HR,Analyst,74038,Wilmington,USA,FT,2016-05-29,,Terminated,119744
+94939,Julie,Horton,Marketing,Director,82768,New York,USA,FT,2018-07-25,,Active,50109
+19358,Brian,Snyder,H.R.,Analyst,41499,Wilmington,USA,FT,2017-03-15,,Terminated,94268
+89840,Breanna,Sanchez,H.R.,Engineer,72402,New York,USA,Contract,2018-10-10,2025-11-21,Active,145737
+93227,Wesley,Douglas,HR,Director,94659,Columbus,USA,Contract,2024-09-13,,Active,99615
+32431,Melissa,Smith,IT Dept,Engineer,74332,Columbus,USA,PT,2020-09-27,,Active,127503
+80010,Eric,Potter,Operations,Associate,,Plano,USA,PT,2016-03-07,,Active,74759
+42087,Susan,Carrillo,Sales,Director,12260,Wilmington,USA,PT,2022-03-12,,Active,130708
+31417,Christopher,Rodriguez,Operations,Associate,22196,Plano,USA,FT,2023-11-20,,Active,105112
+70589,Jacob,Coleman,Sales,Analyst,48566,Wilmington,USA,FT,2022-12-28,2025-02-28,Active,147471
+59735,Brooke,Thompson,Marketing,Analyst,39045,Plano,USA,PT,2019-01-01,,Active,71589
+45382,Emma,Rubio,Human Resources,Director,63005,Chicago,USA,FT,2016-01-11,,Active,75015
+93886,Joe,Holmes,HR,Director,41890,Chicago,USA,PT,2019-12-22,,Active,74009
+83000,David,Williams,Operations,Coordinator,,Chicago,USA,Contract,2018-02-20,,Terminated,128309
+38785,Pamela,Wright,Operations,Engineer,97026,Chicago,USA,PT,2024-04-22,,Terminated,107046
+99733,John,Charles,Marketing,Coordinator,,New York,USA,Contract,2017-01-10,,Terminated,71143
+52504,Brooke,Bryant,IT Dept,Engineer,58368,Chicago,USA,FT,2025-05-13,,Terminated,51154
+17331,Christine,Solis,H.R.,Coordinator,72031,Columbus,USA,PT,2022-05-16,2021-06-04,Active,66804
+40021,Robert,Contreras,Marketing,Associate,82544,Columbus,USA,FT,2017-06-07,,Active,86688
+14207,Brandy,Travis,Finance,Director,79588,New York,USA,Contract,2025-03-21,,Active,109288
+51347,Alexandra,Larson,H.R.,Analyst,55056,Chicago,USA,Contract,2018-10-24,,Active,96195
+62581,Sarah,Dodson,HR,Engineer,65771,Chicago,USA,Contract,2022-12-12,,Active,65581
+45093,James,Vance,H.R.,Engineer,82140,Chicago,USA,FT,2020-01-18,,Active,97648
+18675,Jennifer,Salazar,IT Dept,Analyst,53357,Plano,USA,FT,2020-09-19,,Active,75087
+37653,John,Ball,H.R.,Coordinator,56112,Wilmington,USA,FT,2020-08-13,,Active,94930
+84341,Randy,Wagner,HR,Engineer,69473,Plano,USA,FT,2020-06-17,,Active,77981
+51245,Emily,Rivas,IT Dept,Associate,45509,Wilmington,USA,Contract,2017-05-04,,Active,114298
+37869,Kevin,Kelley,Operations,Director,50189,Chicago,USA,Contract,2017-10-19,,Active,91167
+95909,Leslie,Merritt,Operations,Analyst,,Chicago,USA,PT,2021-11-20,,Active,120304
+75435,Karen,Manning,Sales,Director,40217,Plano,USA,PT,2023-05-11,2022-10-19,Terminated,88408
+61856,Charles,Wells,H.R.,Engineer,,Plano,USA,FT,2017-04-04,,Active,84499
+94259,Stephen,Green,Operations,Engineer,35242,Wilmington,USA,Contract,2016-08-04,,Active,97269
+70142,Yolanda,Wright,HR,Analyst,51359,Columbus,USA,Contract,2023-08-15,2022-09-08,Terminated,83559
+28726,Wendy,Walsh,IT,Associate,25670,Wilmington,USA,Contract,2024-06-09,,Terminated,119319
+44718,Charles,Cannon,IT,Manager,80236,Plano,USA,PT,2019-04-17,2022-05-16,Terminated,140317
+28301,Jason,Boyd,IT Dept,Analyst,,Plano,USA,PT,2023-10-09,,Active,141347
+42325,Joseph,Sims,Operations,Manager,,New York,USA,Contract,2018-07-25,,Active,93787
+83579,Sarah,Hill,Operations,Coordinator,38361,Plano,USA,Contract,2015-12-02,,Active,80488
+80644,Nicole,Jones,IT,Manager,73464,New York,USA,Contract,2023-02-26,,Active,119441
+44438,Natasha,Mitchell,Operations,Associate,,Columbus,USA,PT,2024-04-08,,Active,119663
+86622,Mike,Nelson,H.R.,Coordinator,,Wilmington,USA,Contract,2021-09-10,,Active,67431
+66155,Eric,Flores,Finance,Manager,78765,Wilmington,USA,Contract,2022-06-29,,Active,106681
+86484,Martha,Fernandez,Human Resources,Coordinator,,New York,USA,FT,2024-07-18,,Active,108483
+62350,Jade,Taylor,Sales,Manager,47093,Wilmington,USA,FT,2020-05-11,,Active,94153
+57447,Cheryl,Hall,IT Dept,Associate,23176,Plano,USA,PT,2020-09-26,2024-05-22,Active,51368
+38746,Vanessa,Benson,Finance,Manager,,Chicago,USA,Contract,2019-03-21,,Active,72424
+28131,Destiny,Mccarthy,IT,Manager,,New York,USA,Contract,2023-07-10,,Active,90004
+76784,Alan,Brown,Operations,Manager,39816,Wilmington,USA,FT,2019-08-31,,Active,128869
+74686,Lisa,Russell,Sales,Analyst,57301,New York,USA,PT,2025-03-22,,Terminated,133652
+21915,Kevin,Daniels,Operations,Analyst,33519,New York,USA,FT,2024-08-03,2021-01-01,Active,101985
+16175,Elizabeth,Perry,HR,Analyst,49618,Chicago,USA,FT,2025-09-13,,Active,95069
+24371,Sheila,Clark,HR,Associate,11854,Plano,USA,FT,2018-04-13,,Active,97326
+30033,Dennis,Fisher,Sales,Coordinator,80010,New York,USA,FT,2035-01-01,,Active,126061
+92240,Darrell,Stein,Sales,Engineer,26591,Wilmington,USA,Contract,2024-06-15,,Active,68398
+30969,Daniel,Silva,IT,Manager,45954,Columbus,USA,Contract,2020-01-01,,Active,143393
+99192,Angela,Dominguez,Sales,Manager,,New York,USA,FT,2019-01-28,,Active,95861
+65333,Joseph,Gates,H.R.,Associate,17146,New York,USA,PT,2020-08-15,,Active,120897
+88172,Cassandra,Cannon,Operations,Manager,82529,Chicago,USA,PT,2025-01-10,,Terminated,126905
+18326,Jennifer,James,Finance,Analyst,48290,Plano,USA,PT,2019-09-15,,Active,113577
+60432,James,Smith,Marketing,Engineer,26551,Columbus,USA,PT,2025-10-11,2025-01-16,Active,110641
+60019,Cynthia,Bell,Sales,Director,,Wilmington,USA,FT,2023-10-26,2022-11-15,Terminated,54078
+88104,Joseph,Molina,IT Dept,Manager,74340,Columbus,USA,Contract,2022-05-31,,Terminated,70003
+71348,Tracy,Castaneda,HR,Analyst,,Wilmington,USA,PT,2017-05-31,,Active,107768
+79352,Rebecca,Ashley,H.R.,Director,11607,Plano,USA,FT,2025-07-17,,Active,96047
+42953,Meghan,Barnes,Marketing,Engineer,,Wilmington,USA,PT,2017-02-26,,Active,116626
+82512,Christopher,Adkins,Finance,Director,,Chicago,USA,PT,2025-07-19,2020-12-06,Active,102660
+11504,Rodney,Payne,Marketing,Analyst,,Chicago,USA,FT,2019-03-19,,Active,149386
+99166,Joshua,Morrison,Sales,Coordinator,72746,Chicago,USA,Contract,2016-11-23,,Active,94786
+25014,Adam,Walker,IT,Coordinator,67733,Chicago,USA,Contract,2024-05-05,,Active,46925
+99353,Kellie,Robinson,HR,Director,54657,Columbus,USA,FT,2016-11-21,,Terminated,128976
+80381,Dana,Graham,HR,Associate,34164,Plano,USA,Contract,2024-12-30,,Terminated,71015
+44973,Jose,Johnson,IT,Director,16734,Wilmington,USA,FT,2016-01-18,,Active,78320
+94012,Joyce,Rogers,Operations,Manager,43092,Wilmington,USA,FT,2017-05-02,,Active,109881
+54587,Andrea,Shelton,Human Resources,Manager,72616,Chicago,USA,FT,2024-08-08,,Active,135827
+24621,Ronald,Powell,H.R.,Coordinator,24953,Chicago,USA,Contract,2025-08-05,,Active,147215
+48469,Alec,Martin,HR,Associate,18564,New York,USA,FT,2016-08-22,,Active,71289
+66985,Charles,Mcdonald,IT Dept,Analyst,,Plano,USA,PT,2023-09-16,,Active,48389
+30730,Nicole,Anderson,HR,Manager,74454,Columbus,USA,Contract,2035-01-01,,Active,70683
+69470,Rebecca,Dean,Marketing,Coordinator,,Wilmington,USA,Contract,2022-02-15,,Active,58629
+10425,Amy,Johnson,HR,Engineer,85631,New York,USA,Contract,2019-11-14,,Active,106550
+44522,Mary,Long,HR,Coordinator,92502,New York,USA,Contract,2016-09-11,,Active,69826
+75612,Brandi,Elliott,Human Resources,Manager,99974,Wilmington,USA,PT,2019-03-07,,Active,145734
+33416,Earl,Johnson,Human Resources,Manager,,Columbus,USA,Contract,2022-08-21,,Active,71630
+76542,David,Day,Finance,Coordinator,29887,New York,USA,Contract,2021-03-25,2025-03-21,Terminated,143762
+23947,Kyle,Taylor,Operations,Analyst,29555,New York,USA,FT,2025-06-08,,Active,91163
+91959,Rachel,Murray,IT Dept,Director,83772,Plano,USA,Contract,2022-02-28,,Active,143511
+49117,Laura,Williams,HR,Manager,49824,Columbus,USA,PT,2024-10-07,,Active,111435
+93748,Michelle,Gray,HR,Coordinator,21164,New York,USA,PT,2020-10-09,,Active,56653
+76540,Rachel,Lewis,H.R.,Coordinator,42530,Columbus,USA,PT,2021-04-21,,Active,72961
+89818,Jason,Murphy,Human Resources,Associate,25525,Wilmington,USA,PT,2022-01-25,,Active,126941
+36071,John,Juarez,IT Dept,Director,83147,Chicago,USA,Contract,2018-03-29,,Active,119137
+30032,Curtis,Gray,Finance,Engineer,64548,New York,USA,Contract,2022-09-27,,Active,78662
+59009,Kimberly,Walton,Operations,Analyst,,Plano,USA,PT,2018-10-07,,Terminated,143818
+31174,Nicole,Decker,IT,Engineer,88135,Wilmington,USA,PT,2018-03-03,,Active,101446
+80697,Richard,King,Operations,Director,91057,Columbus,USA,Contract,2016-10-18,,Active,66288
+79514,Christine,Miller,Marketing,Director,39581,Wilmington,USA,PT,2025-09-04,,Terminated,140081
+10074,Eric,Smith,HR,Director,78494,New York,USA,FT,2023-07-01,,Active,81877
+88504,Sarah,Ryan,Finance,Engineer,59856,Columbus,USA,PT,2022-12-07,,Terminated,60313
+52487,Michelle,Cooke,Marketing,Director,69049,Chicago,USA,PT,2016-11-24,,Active,125885
+74042,Theresa,Bell,IT Dept,Coordinator,,Wilmington,USA,FT,2017-07-22,,Active,117715
+12552,Lisa,Santos,IT,Engineer,48974,New York,USA,FT,2018-11-20,,Active,55326
+24662,Nicole,Harrington,Human Resources,Director,87139,Plano,USA,Contract,2016-03-07,,Active,46560
+57576,Angel,Pearson,Finance,Coordinator,66207,Columbus,USA,Contract,2019-02-19,,Active,124148
+50306,Jill,Webster,Finance,Associate,,Wilmington,USA,FT,2016-06-15,,Active,128186
+41385,Martin,Herring,HR,Director,84531,Wilmington,USA,FT,2019-06-24,,Active,71745
+17592,Sarah,Gonzalez,Sales,Engineer,91399,Chicago,USA,Contract,2020-03-14,,Active,76890
+41571,Leah,Smith,Finance,Manager,17894,Chicago,USA,PT,2018-05-03,,Active,65022
+84364,Michelle,Hernandez,H.R.,Director,89905,Plano,USA,FT,2020-01-06,,Terminated,97579
+20322,Lisa,Martinez,IT,Manager,23006,Plano,USA,Contract,2022-09-17,2024-10-13,Terminated,115316
+21226,Joseph,Caldwell,IT,Coordinator,37235,New York,USA,PT,2017-09-10,,Terminated,128847
+73699,Kristin,Elliott,Hr,Associate,91987,New York,USA,FT,2017-08-23,2025-10-05,Active,73380
+19071,Daniel,Robinson,H.R.,Analyst,,Plano,USA,PT,2021-12-27,,Active,47356
+79822,Monica,Lyons,H.R.,Associate,44687,Plano,USA,Contract,2019-09-20,,Active,115326
+26483,Michele,Wang,IT,Director,96563,Columbus,USA,FT,2022-09-22,,Active,137447
+26828,Jeffrey,Jackson,Operations,Manager,20641,Chicago,USA,PT,2020-11-13,2025-06-12,Active,134899
+96474,Lisa,Lawson,IT,Manager,30585,New York,USA,FT,2021-09-22,,Active,65049
+72296,Steven,Adkins,Sales,Engineer,41439,Chicago,USA,PT,2018-03-20,,Active,120717
+82063,Kevin,Wilson,HR,Manager,32782,Chicago,USA,Contract,2022-04-10,,Active,61082
+31643,Laura,Weiss,Marketing,Engineer,82350,Plano,USA,Contract,2020-06-27,,Active,45661
+44741,Jeremy,Oconnell,Operations,Coordinator,19838,Columbus,USA,FT,2022-07-24,,Active,82412
+79163,Andrew,Rodriguez,Human Resources,Analyst,,Wilmington,USA,PT,2024-11-18,,Active,47920
+89507,James,Johnson,Marketing,Director,,Columbus,USA,FT,2020-07-18,,Terminated,136194
+35203,Melinda,Kennedy,IT,Associate,,Chicago,USA,FT,2020-01-04,2023-03-06,Active,84110
+59797,Richard,Powell,IT Dept,Associate,,Wilmington,USA,Contract,2035-01-01,,Terminated,129976
+46421,Rodney,Edwards,Operations,Coordinator,30052,Chicago,USA,Contract,2021-12-06,,Terminated,57857
+37653,John,Ball,H.R.,Coordinator,56112,Wilmington,USA,FT,2020-08-13,,Active,94930
+41571,Leah,Smith,Finance,Manager,17894,Chicago,USA,PT,2018-05-03,,Active,65022
