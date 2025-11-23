@@ -1,0 +1,5 @@
+rule_id,column_name,dimension,severity,target_threshold,score
+1,Employee_ID,Completeness,Critical,0.99,1.0
+2,Employee_ID,Uniqueness,High,0.98,0.975609756097561
+3,Department,Validity,Medium,0.95,0.6878048780487804
+4,Hire_Date,Validity,High,0.98,0.9853658536585366
